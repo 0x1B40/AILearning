@@ -1,3 +1,4 @@
+
 # common data structure for any search problem involving nodes and trees
 class Node:
    def __Init__(self,nodeState,nodeParent,nodeAction,nodePathCost):
